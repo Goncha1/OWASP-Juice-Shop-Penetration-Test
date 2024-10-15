@@ -1,4 +1,4 @@
-# OWASP-Juice-Shop-Penetration-Test
+#Intern-Intelligence OWASP-Juice-Shop-Penetration-Test
 
 This repository contains the details of the penetration testing I performed on the OWASP Juice Shop application, showcasing various vulnerabilities.
 
